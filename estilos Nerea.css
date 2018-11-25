@@ -1,0 +1,18 @@
+header{
+    background-color: cadetblue;
+    color: azure;
+    padding: 0.5rem;
+    font-family: 'Srisakdi';
+    margin: 0;
+    font-size: x-large;
+    text-align: center;
+    
+}
+body {font-family: Rancho;
+      font-size: x-large;
+}
+
+header p{
+    font-family: 'Lato';
+    text-align: center;
+}
